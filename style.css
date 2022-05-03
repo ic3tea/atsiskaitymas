@@ -1,0 +1,21 @@
+header img{ 
+    width: 100px;
+}
+.headerr h1 a{
+text-decoration: none;
+color: rgb(80, 78, 78);}
+.headerr p{
+    margin: 0;
+	padding: 0;
+	border: 0;
+    font: inherit;
+	vertical-align: baseline;
+    letter-spacing: 0.1em;
+    }
+.headerr {
+    text-align: left;
+    padding: 0 0 0.3rem 0;
+    font-family: "Source Sans Pro", Helvetica, sans-serif;
+    color: rgb(80, 78, 78);
+    
+}
